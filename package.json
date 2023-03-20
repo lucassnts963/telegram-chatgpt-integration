@@ -1,0 +1,15 @@
+{
+  "name": "telegram-chatgpt-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "telebot": "^1.4.1"
+  }
+}
